@@ -12,4 +12,8 @@ Welcome to my GitHub profile
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="50" height="50"/>
+                                                                                                                       
+ #Contatacs
+                                                                                                                       
+<a href="https://instagram.com/caina.darc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
           
