@@ -1,4 +1,4 @@
-**hello, my name is Cainã Reis**
+**Hello, my name is Cainã Reis**
 
  👾**Welcome to my GitHub profile**👾 
 
