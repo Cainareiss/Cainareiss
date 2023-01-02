@@ -28,4 +28,4 @@ Welcome to my GitHub profile
 </div>
   
   
-  ![Snake animation](https://github.com/Cainareiss/Cainareiss/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Cainareiss/Cainareiss/blob/output/github-contribution-grid-snake.svg)
