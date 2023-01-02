@@ -1,6 +1,6 @@
-hello, my name is Cainã Reis
+**hello, my name is Cainã Reis**
 
-Welcome to my GitHub profile
+ 👾**Welcome to my GitHub profile**👾 
 
 #Main Technologies and Tools:
 
