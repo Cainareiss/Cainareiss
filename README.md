@@ -59,11 +59,11 @@
 ## 🚀 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/Cainareiss" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cainareiss&repo=Gerador-de-Projetos&theme=dracula"/>
+  <a href="https://github.com/Cainareiss/Gerador_projetos_CFTV" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cainareiss&repo=Gerador_projetos_CFTV&theme=dracula"/>
   </a>
-  <a href="https://github.com/Cainareiss" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cainareiss&repo=MeuSite-Dropshipping&theme=dracula"/>
+  <a href="https://github.com/Cainareiss/Zeo-store-s" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cainareiss&repo=Zeo-store-s&theme=dracula"/>
   </a>
 </p>
 
