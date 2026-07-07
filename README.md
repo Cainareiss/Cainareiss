@@ -61,10 +61,10 @@
 
 <p align="center">
   <a href="https://github.com/Cainareiss/Gerador_projetos_CFTV">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cainareiss&repo=Gerador_projetos_CFTV&theme=dracula" alt="Repo CFTV"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Cainareiss&repo=Gerador_projetos_CFTV&theme=dracula" alt="Repo CFTV"/>
   </a>
   <a href="https://github.com/Cainareiss/Zeo-store-s">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cainareiss&repo=Zeo-store-s&theme=dracula" alt="Repo Zeo Store"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Cainareiss&repo=Zeo-store-s&theme=dracula" alt="Repo Zeo Store"/>
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cainareiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cainareiss&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cainareiss&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
 </p>
 
 ---
