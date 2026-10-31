@@ -1,70 +1,61 @@
-<!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=1EB980&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Cainã+Reis!;Desenvolvedor+em+formação.;DevOps+%7C+Automação+%7C+Python;Apaixonado+por+tecnologia+e+games.;Bem-vindo+ao+meu+GitHub+%F0%9F%91%BE" alt="Typing SVG" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Cainã Reis — Desenvolvedor Full Stack Sênior. Software, automação e soluções web." />
 </p>
----
-## 👨‍💻 Sobre mim
-🎮 Apaixonado por tecnologia, videogames e programação  
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Estagiário em DevOps / Automação  
-🛠️ Desenvolvimento de soluções em Python, scripts e projetos pessoais  
-🎯 Focado em automação, infraestrutura e software  
----
-## 🧰 Tecnologias Principais
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub" alt="GitHub"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" title="Linux" alt="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker" alt="Docker"/>
+  <a href="#projetos-selecionados">Projetos</a> &nbsp;·&nbsp;
+  <a href="#tecnologias">Tecnologias</a> &nbsp;·&nbsp;
+  <a href="#contato">Contato</a>
 </p>
----
-## 📚 Em aprendizado contínuo
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" title="PHP" alt="PHP"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" alt="Java"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" alt="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="50" title="Android" alt="Android"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" alt="C"/>
-</p>
----
-## 📬 Onde me encontrar
-<p align="center">
-  <a href="https://instagram.com/caina.darc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cain%C3%A3-reis-9b1622152" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:darkreis2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5585988768488" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
----
-## 🚀 Projetos em Destaque
-<p align="center">
-  <a href="https://github.com/Cainareiss/Gerador_projetos_CFTV">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Cainareiss&repo=Gerador_projetos_CFTV&theme=dracula" alt="Repo CFTV"/>
-  </a>
-  <a href="https://github.com/Cainareiss/Zeo-store-s">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Cainareiss&repo=Zeo-store-s&theme=dracula" alt="Repo Zeo Store"/>
-  </a>
-</p>
----
-## 📊 Estatísticas GitHub
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cainareiss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas Gerais"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cainareiss&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
-</p>
----
-## 🐍 Contribuições
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
----
-<p align="center">
-✨ Obrigado por visitar meu perfil!<br>
-Sempre aberto a aprender, colaborar e evoluir 🚀👾
-</p>
+
+Sou **Cainã Reis, desenvolvedor Full Stack Sênior**. Trabalho com aplicações web, automação e ferramentas para simplificar processos de negócio — da lógica do backend à experiência de quem usa a interface.
+
+Aqui compartilho projetos próprios, adaptações de software aberto e estudos de engenharia. Meu foco é conectar código a problemas concretos: organizar informações, reduzir tarefas manuais e tornar operações mais simples.
+
+## Projetos selecionados
+
+| Projeto | O que você encontra | Tecnologias |
+| :--- | :--- | :--- |
+| **[Gerador de projetos CFTV](https://github.com/Cainareiss/Gerador_projetos_CFTV)** | Ferramenta desktop para montar projetos de CFTV e controle de acesso, selecionar equipamentos e gerar arquivos de projeto. | Python · Tkinter · JSON |
+| **[FiadoDigital PDV](https://github.com/Cainareiss/PDV-FiadoDigital)** | Meu fork do sistema de ponto de venda de [Moisés Vila Nova](https://github.com/MoisesVNdev/PDV-FiadoDigital), voltado a vendas, estoque e controle de fiado no pequeno comércio. | Vue · TypeScript · Node.js · SQLite |
+| **[Cadastro de usuários com Django](https://github.com/Cainareiss/Sistema-de-cadastro-django)** | Projeto de aplicação web com cadastro, listagem e exclusão de usuários, persistência em banco e interface com Bootstrap. | Python · Django · SQLite · Bootstrap |
+
+[Ver todos os repositórios públicos →](https://github.com/Cainareiss?tab=repositories&type=public)
+
+## Tecnologias
+
+**Backend e automação** &nbsp; Python · Django · Node.js · scripts e ferramentas de linha de comando  
+**Frontend** &nbsp; TypeScript · JavaScript · Vue · HTML · CSS  
+**Dados e entrega** &nbsp; SQL · SQLite · Git · GitHub Actions
+
+<details>
+<summary><strong>Laboratório de engenharia: portabilidade e consoles</strong></summary>
+
+Também exploro compatibilidade entre plataformas, integração com SDKs, empacotamento e diagnóstico de problemas de execução.
+
+- **[EmulationStation UWP](https://github.com/Cainareiss/EmulationStation-UWP-edition):** port experimental do projeto de Aloshi para UWP/Xbox, com interface em C++ e navegação por controle.
+- **[KH Days PS5](https://github.com/Cainareiss/KH-Days-PS5):** adaptação experimental do [khdays-port](https://github.com/Yokimitsuro/khdays-port), envolvendo vídeo, áudio e controles no PS5.
+
+O estado de cada adaptação e os créditos dos projetos originais estão documentados nos respectivos repositórios.
+
+</details>
+
+<details>
+<summary><strong>Atividade no GitHub</strong></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" alt="Resumo das contribuições públicas de Cainareiss no GitHub" />
+</picture>
+
+</details>
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/cain%C3%A3-reis-9b1622152) &nbsp;·&nbsp;
+[E-mail](mailto:darkreis2@gmail.com) &nbsp;·&nbsp;
+[WhatsApp](https://api.whatsapp.com/send?phone=5585988768488) &nbsp;·&nbsp;
+[Instagram](https://instagram.com/caina.darc)
+
+Para conversar sobre desenvolvimento de software, automação ou colaborar em um projeto, entre em contato.

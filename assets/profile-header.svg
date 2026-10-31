@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title description">
+  <title id="title">Cainã Reis — Desenvolvedor Full Stack Sênior</title>
+  <desc id="description">Identidade em grafite e verde, com um diagrama de interface, API e dados representando o desenvolvimento de software.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#263a3b" />
+    </pattern>
+    <clipPath id="rounded"><rect width="1280" height="380" rx="20" /></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="380" fill="#10191e" />
+    <rect x="785" width="495" height="380" fill="url(#grid)" />
+    <rect width="7" height="380" fill="#65ddbc" />
+    <path d="M785 0V380" stroke="#263a3b" />
+
+    <text x="58" y="70" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="3" fill="#65ddbc">CAINAREISS / SOFTWARE</text>
+    <text x="54" y="161" font-family="'Segoe UI', Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="#f4f8f7">Cainã Reis</text>
+    <text x="58" y="218" font-family="'Segoe UI', Arial, sans-serif" font-size="30" font-weight="500" fill="#d1e1dd">Desenvolvedor Full Stack Sênior</text>
+    <path d="M58 254H722" stroke="#2a3e42" />
+    <text x="58" y="300" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#a2b9b6">Aplicações web</text>
+    <circle cx="208" cy="294" r="3" fill="#65ddbc" />
+    <text x="226" y="300" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#a2b9b6">Automação</text>
+    <circle cx="346" cy="294" r="3" fill="#65ddbc" />
+    <text x="364" y="300" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#a2b9b6">Soluções de negócio</text>
+
+    <g font-family="Consolas, 'Courier New', monospace">
+      <text x="844" y="57" font-size="12" letter-spacing="2" fill="#8ca6a3">DA INTERFACE AOS DADOS</text>
+      <path d="M1027 133V166M1027 230V263" stroke="#65ddbc" stroke-width="2" />
+      <circle cx="1027" cy="149" r="4" fill="#65ddbc" />
+      <circle cx="1027" cy="247" r="4" fill="#65ddbc" />
+
+      <rect x="848" y="81" width="358" height="52" rx="8" fill="#19272d" stroke="#3b5557" />
+      <path d="M872 101H883V113H872Z M888 101H900V105H888Z M888 109H900V113H888Z" fill="#65ddbc" />
+      <text x="921" y="114" font-size="19" fill="#edf6f3">Interface</text>
+      <text x="1151" y="113" font-size="13" fill="#8ca6a3">01</text>
+
+      <rect x="848" y="166" width="358" height="64" rx="8" fill="#203831" stroke="#65ddbc" />
+      <path d="M881 189L872 198L881 207M893 189L902 198L893 207" fill="none" stroke="#65ddbc" stroke-width="2" />
+      <text x="921" y="205" font-size="19" fill="#edf6f3">Lógica &amp; APIs</text>
+      <text x="1151" y="204" font-size="13" fill="#8ccec0">02</text>
+
+      <rect x="848" y="263" width="358" height="52" rx="8" fill="#19272d" stroke="#3b5557" />
+      <path d="M873 283V296C873 302 899 302 899 296V283M873 289C873 295 899 295 899 289" fill="none" stroke="#65ddbc" stroke-width="1.6" />
+      <ellipse cx="886" cy="282" rx="13" ry="4" fill="none" stroke="#65ddbc" stroke-width="1.6" />
+      <text x="921" y="296" font-size="19" fill="#edf6f3">Dados</text>
+      <text x="1151" y="295" font-size="13" fill="#8ca6a3">03</text>
+    </g>
+  </g>
+</svg>
